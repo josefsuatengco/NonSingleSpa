@@ -1,5 +1,5 @@
 {
-  "name": "gmtv2-non-single-spa",
+  "name": "non-single-spa",
   "version": "1.0.0",
   "scripts": {
     "ng": "ng",
